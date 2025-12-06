@@ -61,5 +61,5 @@ uvicorn app.main:app --reload
 
 FastAPI sayesinde, sunucu çalıştığı anda interaktif bir API kullanım kılavuzu otomatik olarak oluşturulur.
 
-![API Arayüzü](assets/api-preview.png)
+![API Arayüzü](https://github.com/Nurseherabbasi/akilli-finans-AI-backend/blob/main/assets/api-preview.png?raw=true)
 Backend'i test etmek ve Frontend entegrasyonu için...

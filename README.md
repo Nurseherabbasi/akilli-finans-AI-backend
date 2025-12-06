@@ -40,7 +40,7 @@ Projeyi yerel ortamınızda (Localhost) çalıştırmak için terminalinizde aş
 
 ```bash
 # 1. Projeyi Klonlayın
-git clone [https://github.com/Nurseherabbasi/akilli-finans-backend.git](https://github.com/Nurseherabbasi/akilli-finans-backend.git)
+git clone [https://github.com/Nurseherabbasi/akilli-finans-AI-backend.git](https://github.com/Nurseherabbasi/akilli-finans-AI-backend.git)
 cd akilli-finans-backend
 
 # 2. Sanal Ortamı Kurun ve Başlatın

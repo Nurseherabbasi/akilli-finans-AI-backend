@@ -56,3 +56,10 @@ copy .env.example .env
 
 # 5. Sunucuyu Başlatın
 uvicorn app.main:app --reload
+
+## 📖 API Dokümantasyonu (Swagger UI)
+
+FastAPI sayesinde, sunucu çalıştığı anda interaktif bir API kullanım kılavuzu otomatik olarak oluşturulur.
+
+![API Arayüzü](assets/api-preview.png)
+Backend'i test etmek ve Frontend entegrasyonu için...
